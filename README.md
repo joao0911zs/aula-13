@@ -1,1 +1,1 @@
-Texto modificado dentro da branch minha-solucao.
+Texto modificado diretamente na branch principal main.
